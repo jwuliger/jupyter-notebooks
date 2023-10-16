@@ -1,0 +1,9 @@
+ccxt
+pandas
+numpy
+plotly
+matplotlib
+nbformat
+Ta-Lib
+scikit-learn
+keras
