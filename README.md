@@ -2,7 +2,7 @@
 
 This repository contains Jupyter notebooks related to financial analysis and price prediction. Each notebook focuses on a unique aspect of financial data processing, visualization, and prediction.
 
-## 1. [Support and Resistance Analysis](./support-resistance.ipynb)
+## 1. [Support and Resistance Analysis](./indicators/support-resistance.ipynb)
 This notebook provides methods to:
 - Import necessary libraries.
 - Fetch financial data using the `ccxt` library.
@@ -10,7 +10,7 @@ This notebook provides methods to:
 - Identify support and resistance levels.
 - Plot a candlestick chart with the identified support and resistance lines.
 
-## 2. [TPO Market Profile Chart](./tpo-market-profile-chart.ipynb)
+## 2. [TPO Market Profile Chart](./indicators/tpo-market-profile-chart.ipynb)
 This notebook delves into the creation of a TPO (Time Price Opportunity) Market Profile chart. Topics covered include:
 - Fetching OHLCV (Open, High, Low, Close, Volume) data.
 - Saving data to a CSV file.
@@ -22,7 +22,7 @@ This notebook delves into the creation of a TPO (Time Price Opportunity) Market 
 - Identifying single prints in the chart.
 - Visualizing the TPO chart using the `Plotly` library.
 
-## 3. [Bitcoin Price Prediction using LSTM](./basic-lstm-btc-price.ipynb)
+## 3. [Bitcoin Price Prediction using LSTM](./predictions/basic-lstm-btc-price.ipynb)
 A notebook that employs a basic LSTM (Long Short-Term Memory) neural network to predict Bitcoin (BTC) prices. The steps covered are:
 - Data Collection.
 - Data Preprocessing & Feature Engineering.

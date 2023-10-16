@@ -10,6 +10,8 @@
         "idxmax",
         "iloc",
         "iterrows",
+        "LSTM",
+        "Plotly",
         "quantile",
         "showarrow",
         "talib",
