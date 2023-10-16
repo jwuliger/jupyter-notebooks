@@ -9,3 +9,4 @@ scikit-learn
 keras
 prophet
 pystan
+tensorflow
