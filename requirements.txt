@@ -7,3 +7,5 @@ nbformat
 Ta-Lib
 scikit-learn
 keras
+prophet
+pystan

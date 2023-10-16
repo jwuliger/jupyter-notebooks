@@ -7,16 +7,22 @@
         "cumsum",
         "dashdot",
         "dropna",
+        "fbprophet",
+        "figsize",
         "idxmax",
         "iloc",
         "iterrows",
         "LSTM",
+        "MAPE",
         "Plotly",
         "quantile",
         "showarrow",
         "talib",
         "timeperiod",
         "tpos",
+        "xlabel",
+        "yhat",
+        "ylabel",
         "yshift"
     ]
 }
