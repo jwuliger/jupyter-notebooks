@@ -10,3 +10,5 @@ keras
 prophet
 pystan
 tensorflow
+yfinance
+mplfinance
