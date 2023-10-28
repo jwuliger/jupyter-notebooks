@@ -12,3 +12,4 @@ pystan
 tensorflow
 yfinance
 mplfinance
+seaborn
