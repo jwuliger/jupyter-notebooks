@@ -13,3 +13,4 @@ tensorflow
 yfinance
 mplfinance
 seaborn
+neuralprophet
