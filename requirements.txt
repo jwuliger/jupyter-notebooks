@@ -8,9 +8,10 @@ Ta-Lib
 scikit-learn
 keras
 prophet
-pystan
 tensorflow
 yfinance
 mplfinance
 seaborn
 neuralprophet
+stable-baselines3
+gym
